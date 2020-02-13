@@ -1,0 +1,11 @@
+/Users/kamariross/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.csprojAssemblyReference.cache
+/Users/kamariross/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.AssemblyInfoInputs.cache
+/Users/kamariross/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.AssemblyInfo.cs
+/Users/kamariross/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards
+/Users/kamariross/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.deps.json
+/Users/kamariross/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.runtimeconfig.json
+/Users/kamariross/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.runtimeconfig.dev.json
+/Users/kamariross/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.dll
+/Users/kamariross/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.pdb
+/Users/kamariross/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.dll
+/Users/kamariross/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.pdb
