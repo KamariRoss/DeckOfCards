@@ -8,8 +8,7 @@ namespace DeckOfCards
     static void Main(string[] args)
     {
 
-      bool flag = true;
-      while (flag)
+
       {
 
         Console.WriteLine("Lets play cards");
@@ -59,7 +58,7 @@ namespace DeckOfCards
         }
 
         var topcard = deckOfCards[0];
-        Console.WriteLine($"Your card is{topcard}");
+        Console.WriteLine($"{topcard}");
 
         //Demonstrate usage of arrays to model resources
         //Understand and implement algorithms
@@ -79,14 +78,25 @@ namespace DeckOfCards
         //After deck creation, you should shuffle the deck using Fisher–Yates shuffle algorithm.
         //After the deck is shuffled, display the top card.
         //Give the user an option to see the next card or quit the program.
-
-        Console.WriteLine("Would you like to shuffle cards agian? 'yes or 'no");
-        string playAgain = null;
-        playAgain = Console.ReadLine().ToLower();
-        if (playAgain == "no")
-          flag = false;
-
+        bool flag = true;
+        while (flag)
+        {
+          deckOfCards.RemoveAt(0); // removes card from the deck
+          Console.WriteLine("Would you like to shuffle cards again? 'yes or 'no");
+          var input = Console.ReadLine().ToLower();
+          if (input == "yes")
+          {
+            Console.WriteLine($"The First card is {deckOfCards[0]}");
+            deckOfCards.RemoveAt(0);
+          }
+          else if (input == "no")
+          {
+            Console.WriteLine("Have a good");
+            flag = false;
+          }
+        }
       }
     }
   }
+
 }
