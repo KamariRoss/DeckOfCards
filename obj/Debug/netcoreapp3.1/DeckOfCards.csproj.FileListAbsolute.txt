@@ -9,3 +9,13 @@
 /Users/kamariross/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.pdb
 /Users/kamariross/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.dll
 /Users/kamariross/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.pdb
+/Users/kamariross/sdg-hw/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.deps.json
+/Users/kamariross/sdg-hw/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.runtimeconfig.json
+/Users/kamariross/sdg-hw/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.runtimeconfig.dev.json
+/Users/kamariross/sdg-hw/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.dll
+/Users/kamariross/sdg-hw/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.pdb
+/Users/kamariross/sdg-hw/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.csprojAssemblyReference.cache
+/Users/kamariross/sdg-hw/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.AssemblyInfoInputs.cache
+/Users/kamariross/sdg-hw/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.AssemblyInfo.cs
+/Users/kamariross/sdg-hw/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.dll
+/Users/kamariross/sdg-hw/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.pdb

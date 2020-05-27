@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kamariross/DeckOfCards/DeckOfCards.csproj",
+      "projectUniqueName": "/Users/kamariross/sdg-hw/DeckOfCards/DeckOfCards.csproj",
       "projectName": "DeckOfCards",
-      "projectPath": "/Users/kamariross/DeckOfCards/DeckOfCards.csproj",
+      "projectPath": "/Users/kamariross/sdg-hw/DeckOfCards/DeckOfCards.csproj",
       "packagesPath": "/Users/kamariross/.nuget/packages/",
-      "outputPath": "/Users/kamariross/DeckOfCards/obj/",
+      "outputPath": "/Users/kamariross/sdg-hw/DeckOfCards/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kamariross/.nuget/NuGet/NuGet.Config"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
       }
     }
   }
